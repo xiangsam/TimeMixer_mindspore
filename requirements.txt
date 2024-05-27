@@ -1,0 +1,12 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
+einops
+matplotlib
+numpy
+pandas
+patool
+reformer_pytorch
+scikit_learn
+scipy
+sktime
+sympy
+tqdm

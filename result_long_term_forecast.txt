@@ -1,0 +1,13 @@
+long_term_forecast_weather_96_96_none_TimeMixer_custom_sl96_pl96_dm16_nh4_el3_dl1_df32_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.1560901403427124, mae:0.2066078931093216
+rmse:0.3950824439525604, mape:0.503458559513092, mspe:23454034.0
+
+long_term_forecast_ETTh1_96_96_none_TimeMixer_ETTh1_sl96_pl96_dm16_nh4_el2_dl1_df32_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.37648114562034607, mae:0.40245330333709717
+rmse:0.613580584526062, mape:0.6784520745277405, mspe:44781.515625
+long_term_forecast_solar_96_96_none_TimeMixer_Solar_sl96_pl96_dm512_nh4_el3_dl1_df2048_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.19910944998264313, mae:0.28689029812812805
+
+long_term_forecast_ETTh2_96_96_none_TimeMixer_ETTh2_sl96_pl96_dm16_nh4_el2_dl1_df32_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.2897232174873352, mae:0.3420143127441406
+
