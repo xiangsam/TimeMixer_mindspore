@@ -39,6 +39,9 @@ docker run --gpus all --privileged -d -it -v /home/samri/Documents/TimeMixer:/wo
 **3.验证环境安装成功**
 ![](figures/install.jpg)
 
+**4.数据集下载**
+下载[数据集](https://drive.google.com/u/0/uc?id=1NF7VEefXCmXuWNbnNe858WvQAkJ_7wuP&export=download)，解压到`dataset`文件夹
+
 ### 代码迁移
 为高效率迁移模型及代码，此处使用MindSpore生态适配工具——[MindTorch](https://mindtorch.readthedocs.io/zh-cn/latest/index.html)。该工具能帮助用户高效使用昇腾算力，且在不改变原有PyTorch用户使用习惯的前提下，将代码快速迁移到MindSpore生态上。
 
